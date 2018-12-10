@@ -15,4 +15,4 @@ Each repository will be tagged with the topic `pecs-move-platform`, and discover
 
 ## Architecture Decision Records
 
-* [1. Record architecture decisions](architectural-decision-records/0001-record-architecture-decisions.md)
+* [1. Record architecture decisions](architecture-decision-records/0001-record-architecture-decisions.md)
