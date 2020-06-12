@@ -1,18 +1,17 @@
-# HMPPS PECS Move Platform Master Repo
+# HMPPS Book a secure move Master Repo
 
 ## About this Repository
-This is the HMPPS PECS Move Platform team's repository for public facing
-documentation, feature work, enhancements, and issues.
 
-It's best to search our board before adding new Issues in an effort to
-reduce duplicates and encourage activity on existing conversations.
+The Book a secure move service is part of the HMPPS Prisoner Escort and Custody Service (PECS) programme.
 
-## PECS Move Platform repo list
+This is the team's repository for public facing documentation, feature work, enhancements, and issues.
 
-Over time, as we build out the PECS Move Platform, we will add a range of different repositories to support it's development.
+## Links
 
-Each repository will be tagged with the topic `pecs-move-platform`, and discoverable via [this search](https://github.com/search?q=topic%3Apecs-move-platform+org%3Aministryofjustice).
+ * [Architecture Decision Records](architecture-decision-records/)
 
-## Architecture Decision Records
+## Repositories
 
-* [1. Record architecture decisions](architecture-decision-records/0001-record-architecture-decisions.md)
+We have a series of repositories for our work. We have adopted the naming convention of starting each repo with `hmpps-book-secure-move-`. Where some repos have a similar purpose we try to name them similarly, (e.g. `hmpps-book-secure-move-docs-*` for documentation modules). We also try to [name things](https://ministryofjustice.github.io/technical-guidance/standards/naming-things/#naming-things) so that users can infer a basic understanding of what a given thing does from its name.
+
+Each repository will be tagged with the topic `book-secure-move`, and discoverable via [this search](https://github.com/search?q=topic%3Abook-secure-move+org%3Aministryofjustice).
